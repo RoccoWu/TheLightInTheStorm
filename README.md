@@ -1,6 +1,8 @@
 # TheLightInTheStorm
 Controls:
+
 WASD to move
+
 Space to Interact
 
 Summary:
